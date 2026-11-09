@@ -6,3 +6,4 @@ Cada fila la agrega el pipeline de Jenkins (etapa *Version Control*).
 |---|---|---|---|---|---|---|---|
 | 3 | 2026-11-09 21:25 | 1.0.3+b925bdf | `b925bdf` | 9/9 OK | n/a | 0 | http://localhost:8080/job/Sistema-alumnos/3/ |
 | 4 | 2026-11-09 21:41 | 1.0.4+b925bdf | `b925bdf` | 9/9 OK | n/a | 0 | http://localhost:8080/job/Sistema-alumnos/4/ |
+| 5 | 2026-11-09 21:49 | 1.0.5+2f48a8a | `2f48a8a` | 9/9 OK | n/a | 0 | http://localhost:8080/job/Sistema-alumnos/5/ |
